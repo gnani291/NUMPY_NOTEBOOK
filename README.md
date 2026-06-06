@@ -1,9 +1,4 @@
-# NumPy Mastery: From Fundamentals to Real-World Applications
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Foundations-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
+# NumPy Mastery: From Fundamentals to Real-World Application
 
 A comprehensive hands-on NumPy repository covering everything from array fundamentals to advanced numerical computing, machine learning foundations, image processing, statistical analysis, simulations, and real-world applications.
 
