@@ -10,7 +10,7 @@ A comprehensive hands-on NumPy repository covering everything from array fundame
 This notebook demonstrates how NumPy serves as the backbone of Data Science, Machine Learning, Computer Vision, and Scientific Computing.
 
 open notebook:
-https://colab.research.google.com/drive/1kxVIwEfn1XF3FkID3JWqaVVqzZyGrR2r?usp=sharing
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kxVIwEfn1XF3FkID3JWqaVVqzZyGrR2r?usp=sharing)
 
 ---
 
