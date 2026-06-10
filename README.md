@@ -30,7 +30,7 @@ This project contains 75+ practical implementations covering:
 
 # Topics Covered
 
-## NumPy Fundamentals
+# NumPy Fundamentals
 
 * Array Creation
 * Dimensions and Shapes
